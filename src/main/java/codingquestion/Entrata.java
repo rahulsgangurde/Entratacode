@@ -87,7 +87,7 @@ public class Entrata {
 	
 	@Test
 	public void navigateToProductsPageAndSelectCategory() {
-
+		driver.get("https://www.entrata.com");
 		WebElement productsLink = driver.findElement(By.xpath("(//div[@class='main-nav-link'])[1]"));
 		productsLink.click();
 		// Select a category (customize based on actual structure)
