@@ -1,5 +1,5 @@
 Entrata.com Coding Challenge
-**This repository contains automated test scripts for the Entrata website using Selenium WebDriver and TestNG**
+##### **This repository contains automated test scripts for the Entrata website using Selenium WebDriver and TestNG**
 
 **Test Case 1: Verify the title of the home page**
 Method: verifyHomePageTitle
